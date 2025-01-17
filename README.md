@@ -7,6 +7,7 @@ This is for ethical practices only. Resources uploaded are not meant to use for 
 ## 1. Project Overview
 This project is a phishing simulation webpage designed for educational purposes and cybersecurity awareness. It mimics the Instagram login interface, capturing user credentials and storing them in a PostgreSQL database hosted on Render.com. The project aims to demonstrate the dangers of phishing attacks and educate users about preventive measures.
 
+![alt text](result-page.jpeg)
 ---
 
 ## 2. Features
