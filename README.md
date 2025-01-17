@@ -31,7 +31,10 @@ These methods exploit user trust in familiar URLs. However, it’s crucial to em
 
 ### 4.1 PostgreSQL Setup on Render.com
 1. Log in to Render.com and create a new **PostgreSQL** database.
-2. Copy the **Database URL** provided. This will serve as the connection string for your application.
+
+![alt text](render-ex.jpeg)
+   
+3. Copy the **Database URL** provided. This will serve as the connection string for your application.
 
 ### 4.2 Managing the Database Locally
 To edit tables and manage data effectively, download a PostgreSQL GUI tool like **pgAdmin** or **Workbench**:
